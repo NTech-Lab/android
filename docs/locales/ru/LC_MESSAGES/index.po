@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FindFace Android Demo App\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-01 18:05+0300\n"
-"PO-Revision-Date: 2017-12-01 19:00+0300\n"
+"POT-Creation-Date: 2017-12-01 19:12+0300\n"
+"PO-Revision-Date: 2017-12-01 19:13+0300\n"
 "Last-Translator: Sasha Carlos <info@ntechlab.com>\n"
 "Language-Team: NtechLab Documentation Team\n"
 "Language: ru\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 #: ../docs/index.rst:3
-msgid "FindFace Android demo app build guide"
+msgid "Welcome to the FindFace demo app build guide!"
 msgstr "Руководство по созданию демо-приложения FindFace Android"
 
 #: ../docs/index.rst:6
@@ -47,7 +47,7 @@ msgstr ""
 "проекта Android)."
 
 #: ../docs/index.rst:11
-msgid "Request it from your NtechLab manager by sales@ntechlab.com."
+msgid "Request it from your NtechLab manager by info@ntechlab.com."
 msgstr ""
 "Запросите проект Android у своего менеджера NtechLab по адресу "
 "info@ntechlab.com."
