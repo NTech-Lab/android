@@ -1,5 +1,5 @@
 ************************************************************
-FindFace Android demo app build guide
+Welcome to the FindFace demo app build guide!
 ************************************************************
 
 
