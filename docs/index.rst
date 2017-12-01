@@ -8,7 +8,7 @@ The FindFace open-source Android demo app allows you to explore wide possibiliti
 Here you can find a step by step guide to building the FindFace Android demo app from source code (provided as an Android project).
 
 .. tip::
-   Request it from your NtechLab manager by sales@ntechlab.com.
+   Request it from your NtechLab manager by info@ntechlab.com.
 
 
 .. toctree::
