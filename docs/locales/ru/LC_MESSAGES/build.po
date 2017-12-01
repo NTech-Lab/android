@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, NtechLab
+# This file is distributed under the same license as the FindFace Android
+# Demo App package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# Sasha Carlos <info@ntechlab.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: FindFace Android Demo App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-01 18:05+0300\n"
+"PO-Revision-Date: 2017-12-01 18:44+0300\n"
+"Last-Translator: Sasha Carlos <info@ntechlab.com>\n"
+"Language-Team: NtechLab Documentation Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../docs/build.rst:3
+msgid "Building App from Source Code"
+msgstr "Сборка приложения из исходного кода"
+
+#: ../docs/build.rst:5
+msgid ""
+"To build the FindFace demo app from source code (provided as an Android "
+"project), do the following:"
+msgstr ""
+"Для того чтобы собрать демо-приложение FindFace из исходного кода (проекта "
+"Android), выполните следующие действия:"
+
+#: ../docs/build.rst:7
+msgid ""
+"Start :program:`Android Studio`. On the welcome screen, click "
+":guilabel:`Import Project`."
+msgstr ""
+"Запустите :program:`Android Studio`. На экране приветствия нажмите "
+":guilabel:`Import Project`."
+
+#: ../docs/build.rst:12
+msgid "Select the project folder. Click :guilabel:`OK`."
+msgstr "Укажите папку с проектом Android. Нажмите :guilabel:`OK`."
+
+#: ../docs/build.rst:17
+msgid ""
+"Wait until the project is fully loaded, and :program:`Android Studio` is "
+"finished starting. This may take a while."
+msgstr ""
+"Дождитесь окончания загрузки проекта и запуска модулей :program:`Android "
+"Studio`. Это может занять некоторое время."
+
+#: ../docs/build.rst:22
+msgid ""
+"Once the progress bar at the bottom disappears, you are all set to start "
+"building the app."
+msgstr ""
+"Как только индикатор процессов на нижней панели исчезнет, можно начинать "
+"сборку приложения."
+
+#: ../docs/build.rst:27
+msgid ""
+"To select the build variant, invoke the |green| :guilabel:`Build "
+"Variants` tool window."
+msgstr ""
+"Для того чтобы выбрать вариант сборки, вызовите окно инструментов |green| "
+":guilabel:`Build Variants`."
+
+#: ../docs/build.rst:35
+msgid "Select the :guilabel:`masterRelease` build variant."
+msgstr "Выберите вариант сборки :guilabel:`masterRelease`."
+
+#: ../docs/build.rst:40
+msgid "On the build panel, activate the :guilabel:`app` module."
+msgstr "На панели сборки активируйте модуль :guilabel:`app`."
+
+#: ../docs/build.rst:45
+msgid ""
+"In the main menu, navigate to :menuselection:`Build -->  Build APK`. It "
+"will launch building an APK of all the application modules in the current"
+" project."
+msgstr ""
+"В главном меню выберите :menuselection:`Build -->  Build APK`. Это запустит "
+"сборку APK из всех модулей приложения текущего проекта."
+
+#: ../docs/build.rst:50
+msgid ""
+"Wait until the build completes. Once it does, the progress bar at the "
+"bottom will disappear. The build will generate the ``app-master-"
+"release-v1.0.0.apk`` artifact."
+msgstr ""
+"Дождитесь окончания сборки. Индикатор на нижней панели при этом исчезнет. "
+"Артефакт сборки будет сгенерирован под именем ``app-master-"
+"release-v1.0.0.apk``."
+
+#: ../docs/build.rst:55
+msgid "To open the APK, click the :guilabel:`Event log` button at the bottom."
+msgstr "Для того чтобы открыть APK, нажмите внизу кнопку :guilabel:`Event log`."
+
+#: ../docs/build.rst:61
+msgid "On the tab that appears, click the ``Show in Explorer`` link."
+msgstr "На появившейся вкладке нажмите ссылку ``Show in Explorer``."
+
+#: ../docs/build.rst:67
+msgid "You are now finished!"
+msgstr "Процесс сборки на этом будет завершен."

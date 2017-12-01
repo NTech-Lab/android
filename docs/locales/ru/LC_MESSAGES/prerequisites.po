@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, NtechLab
+# This file is distributed under the same license as the FindFace Android
+# Demo App package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# Sasha Carlos <info@ntechlab.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: FindFace Android Demo App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-01 18:05+0300\n"
+"PO-Revision-Date: 2017-12-01 18:29+0300\n"
+"Last-Translator: Sasha Carlos <info@ntechlab.com>\n"
+"Language-Team: NtechLab Documentation Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.1\n"
+
+#: ../docs/prerequisites.rst:5
+msgid "Prerequisites"
+msgstr "Необходимое стороннее ПО"
+
+#: ../docs/prerequisites.rst:7
+msgid ""
+"Prior to working with the FindFace demo app, make sure that your host is "
+"running the following software:"
+msgstr ""
+"Перед работой с демо-приложением FindFace убедитесь, что на сервере "
+"установлено следующее программное обеспечение."
+
+#: ../docs/prerequisites.rst:9
+msgid "Java https://java.com/en/"
+msgstr "Java https://java.com/ru/"
+
+#: ../docs/prerequisites.rst:10
+msgid ""
+"Android SDK and Android Studio "
+"https://developer.android.com/studio/index.html"
+msgstr ""
+"Android SDK и Android Studio https://developer.android.com/studio/index.html"
